@@ -4,6 +4,7 @@ The steps here outline how to complete the Slack side setup for Response.  The a
 
 ## Slash Command
 
+- Go to https://api.slack.com/apps and click on your app
 - In the Slash commands page click `Create New Command`.
 
 - Enter the following info:
